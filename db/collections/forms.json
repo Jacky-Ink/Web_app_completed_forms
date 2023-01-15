@@ -1,0 +1,17 @@
+[
+    {
+      "user_form": {
+        "name": "str",
+        "email": "email",
+        "phone": "phone",
+        "date_of_birth": "date"
+      }
+    },
+    {
+      "contract_form": {
+        "name": "str",
+        "start_date": "date",
+        "end_date": "date"
+      }
+    }
+  ]
